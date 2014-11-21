@@ -249,7 +249,7 @@ class Formatter {
 		}
 
 		$value = round($value);
-		if ($value < 10000)
+		if ($value < 1000)
 		{
 			return $prefix.$value.$suffix;
 		}

@@ -1,6 +1,6 @@
 {
   "name": "kernelcurry/formatter",
-  "description": "Formatter - Light weight value formatter.",
+  "description": "Formatter - Lightweight value formatter.",
   "keywords": ["format", "numbers", "time", "formatter", "abbreviate"],
   "license": "MIT",
   "authors": [

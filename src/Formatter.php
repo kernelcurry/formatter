@@ -1,7 +1,7 @@
 <?php namespace KernelCurry;
 
 /**
- * Light weight formatter for a number of value types.
+ * Lightweight formatter for a number of value types.
  *
  * @package  Formatter
  * @author   Michael Curry <kernelcurry@gmail.com>

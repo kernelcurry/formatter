@@ -1,0 +1,21 @@
+{
+  "name": "kernelcurry/formatter",
+  "description": "Formatter - Light weight value formatter.",
+  "keywords": ["format", "numbers", "time", "formatter", "abbreviate"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Michael Curry",
+      "email": "michael.ian.curry@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "KernelCurry\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
